@@ -10,8 +10,6 @@ public class Prob4 {
 		String text = scanner.nextLine();
 		
 		
-		
-		
 		scanner.close();
 	}
 }
